@@ -11,7 +11,7 @@
 	export default {
 		data() {
 			return {
-				title: 'Hello-githubClone-2'
+				title: 'Hello-githubClone-3-test'
 			}
 		},
 		onLoad() {
